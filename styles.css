@@ -52,7 +52,7 @@ li{
     color: #ffffff;
 }
 
-li:hover {
+li a:hover {
     color: #f9004d;
     transition: 0.5s;
 }
